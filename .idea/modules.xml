@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pora_ai.iml" filepath="$PROJECT_DIR$/.idea/pora_ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yura_datamarket_update_statistic/.idea/yura_datamarket_update_statistic.iml" filepath="$PROJECT_DIR$/../yura_datamarket_update_statistic/.idea/yura_datamarket_update_statistic.iml" />
+    </modules>
+  </component>
+</project>
